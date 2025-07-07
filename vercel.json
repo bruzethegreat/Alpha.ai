@@ -19,7 +19,7 @@
     }
   },
   "env": {
-    "NEXT_PUBLIC_SUPABASE_URL": "@shttps://gghyfybxgxlqsjboaxzd.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_URL": "@https://gghyfybxgxlqsjboaxzd.supabase.co",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@supabase_anon_key",
     "SUPABASE_SERVICE_ROLE_KEY": "@supabase_service_key",
     "GROQ_API_KEY": "@groq_api_key",
