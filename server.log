@@ -1,0 +1,2131 @@
+
+> alpha-ai-search@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+  ▲ Next.js 14.2.5
+  - Local:        http://localhost:3001
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 6.3s (1916 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 6923ms
+ ✓ Compiled in 798ms (903 modules)
+ ○ Compiling /favicon.ico ...
+ ✓ Compiled /favicon.ico in 635ms (1034 modules)
+ GET /favicon.ico 200 in 720ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 286ms
+ GET /favicon.ico 200 in 22ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 706ms (1981 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /login 200 in 901ms
+ ✓ Compiled /api/auth/callback in 427ms (1262 modules)
+ GET /api/auth/callback?code=ddd914c2-6928-41e4-98f3-4fe835e4dbad 307 in 1236ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 248ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/chat in 200ms (1278 modules)
+Chat creation error: {
+  code: '23503',
+  details: 'Key (user_id)=(2a4e1619-37fe-4eed-a3a8-68df7fc82afd) is not present in table "profiles".',
+  hint: null,
+  message: 'insert or update on table "chats" violates foreign key constraint "chats_user_id_fkey"'
+}
+ POST /api/chat 500 in 677ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 1268ms (1935 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 214ms
+ ✓ Compiled /favicon.ico in 185ms (1034 modules)
+ GET /favicon.ico 200 in 269ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /_not-found in 943ms (2166 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/0b21b61827d97499.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /_next/static/webpack/0b21b61827d97499.webpack.hot-update.json 404 in 615ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 135ms
+ POST /api/chat 200 in 1314ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /favicon.ico 200 in 25ms
+ ✓ Compiled /chat/[id] in 341ms (2172 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=acf86d28-9784-4b12-822a-646819a532dc 200 in 192ms
+ ✓ Compiled in 416ms (2186 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 2387ms
+ ✓ Compiled in 429ms (2186 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 371ms (2186 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 392ms (2186 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 6075ms
+ ✓ Compiled in 383ms (2186 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 491ms (2156 modules)
+ ✓ Compiled /_not-found in 340ms (2145 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/acf86d28-9784-4b12-822a-646819a532dc 200 in 202ms
+ GET /api/chat?chatId=acf86d28-9784-4b12-822a-646819a532dc 200 in 470ms
+ ✓ Compiled in 396ms (2159 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1314ms (2368 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/acf86d28-9784-4b12-822a-646819a532dc 200 in 119ms
+ GET /api/chat?chatId=acf86d28-9784-4b12-822a-646819a532dc 200 in 355ms
+ ✓ Compiled in 445ms (2382 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/acf86d28-9784-4b12-822a-646819a532dc. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 402ms (2382 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 2371ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=424a23ee-e24b-406a-a43d-dd9bc21cef06 200 in 144ms
+ POST /api/chat 200 in 2188ms
+ ✓ Compiled in 706ms (2382 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 565ms (2377 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 495ms (2377 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 624ms (2377 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 2936ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 661ms (2151 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 974ms
+ ✓ Compiled /api/chat in 487ms (1263 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=424a23ee-e24b-406a-a43d-dd9bc21cef06 200 in 1158ms
+ ✓ Compiled /login in 440ms (1293 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06 200 in 233ms
+ ✓ Compiled /favicon.ico in 324ms (1319 modules)
+ GET /favicon.ico 200 in 390ms
+ POST /api/chat 200 in 1055ms
+ POST /api/chat 200 in 1099ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /login 200 in 181ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/424a23ee-e24b-406a-a43d-dd9bc21cef06 200 in 143ms
+ POST /api/chat 200 in 853ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 3395ms
+ ✓ Compiled in 776ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 445ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 410ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 218ms
+ ✓ Compiled /favicon.ico in 170ms (1107 modules)
+ GET /favicon.ico 200 in 235ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1738ms (1319 modules)
+ POST /api/chat 200 in 2706ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 258ms (1321 modules)
+ GET /api/auth/callback?code=84745b21-5f1d-4652-9043-8acfbd078850 307 in 757ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 233ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ✓ Compiled in 753ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 541ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 480ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 876ms (2178 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 545ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 620ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 702ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 552ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 569ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 297ms (1115 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 609ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 602ms (2202 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 262ms
+ ✓ Compiled /favicon.ico in 356ms (1112 modules)
+ GET /favicon.ico 200 in 509ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 525ms (2222 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯ app/components/chat/chat.tsx (60:8) @ GuestBanner
+ ⨯ ReferenceError: GuestBanner is not defined
+    at Chat (./app/components/chat/chat.tsx:96:89)
+digest: "2879021"
+[0m [90m 58 |[39m[0m
+[0m [90m 59 |[39m       {[90m/* Guest Banner */[39m}[0m
+[0m[31m[1m>[22m[39m[90m 60 |[39m       [33m<[39m[33mGuestBanner[39m [33m/[39m[33m>[39m[0m
+[0m [90m    |[39m        [31m[1m^[22m[39m[0m
+[0m [90m 61 |[39m[0m
+[0m [90m 62 |[39m       {[90m/* Input Area */[39m}[0m
+[0m [90m 63 |[39m       [33m<[39m[33mdiv[39m className[33m=[39m[32m"border-t bg-background"[39m[33m>[39m[0m
+ GET / 500 in 202ms
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ✓ Compiled in 467ms (2222 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 327ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 49ms
+ GET /favicon.ico 200 in 26ms
+ ✓ Compiled in 565ms (2222 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /_not-found in 304ms (2211 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/c9e14182fb93b687.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/c9e14182fb93b687.webpack.hot-update.json 404 in 402ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 79ms
+ GET /favicon.ico 200 in 21ms
+ ✓ Compiled in 456ms (2225 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 309ms (1117 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 227ms
+ GET /favicon.ico 200 in 33ms
+ ✓ Compiled in 653ms (2225 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/9f0d4599b0513c0c.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/9f0d4599b0513c0c.webpack.hot-update.json 404 in 86ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 110ms
+ GET /favicon.ico 200 in 22ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 49ms
+ GET /favicon.ico 200 in 18ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 77ms
+ GET /favicon.ico 200 in 36ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ✓ Compiled in 725ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 447ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 269ms
+ ✓ Compiled /favicon.ico in 184ms (1107 modules)
+ GET /favicon.ico 200 in 259ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /login 200 in 154ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 121ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1144ms (1319 modules)
+ POST /api/chat 200 in 1506ms
+ POST /api/chat 200 in 831ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /login 200 in 202ms
+ ✓ Compiled /api/auth/callback in 324ms (1321 modules)
+ GET /api/auth/callback?code=a1c993a5-7f13-48ce-96d7-c6a1a9f0be74 307 in 1022ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 246ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ✓ Compiled in 764ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 638ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 598ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/chat in 207ms (1292 modules)
+Groq API Error: NotFoundError: 404 {"error":{"message":"The model `gemma-2-9b-it` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+    at APIError.generate (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/error.js:49:20)
+    at Groq.makeStatusError (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:275:33)
+    at Groq.makeRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:318:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:22:30)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:18:28)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13) {
+  status: 404,
+  headers: {
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '95a9377fdeaf5510-DEL',
+    connection: 'keep-alive',
+    'content-encoding': 'gzip',
+    'content-type': 'application/json',
+    date: 'Sat, 05 Jul 2025 19:19:56 GMT',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=4x0TTIEjYoZYLoDytZs1R.eSWpLCqEsU3zmalbreyb8-1751743196-1.0.1.1-dCgnD4Y4D9DZAx0IRDefo2v2R4obMWpUGEfT5ThAMRp5qVG4aH2FaW6Ya8oD07VVwvmfECL3z_G97cKDPIM2LUIS0woWTvmVxt6mjjuJTY0; path=/; expires=Sat, 05-Jul-25 19:49:56 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None',
+    'transfer-encoding': 'chunked',
+    vary: 'Origin',
+    via: '1.1 google',
+    'x-groq-region': 'bom',
+    'x-request-id': 'req_01jze0fv04f6as092yw1w9n2ct'
+  },
+  error: {
+    error: {
+      message: 'The model `gemma-2-9b-it` does not exist or you do not have access to it.',
+      type: 'invalid_request_error',
+      code: 'model_not_found'
+    }
+  }
+}
+Primary model gemma-2-9b-it failed: Error: Groq API Error: 404 {"error":{"message":"The model `gemma-2-9b-it` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+    at GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:18:28)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+Groq API Error: BadRequestError: 400 {"error":{"message":"The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at APIError.generate (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/error.js:40:20)
+    at Groq.makeStatusError (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:275:33)
+    at Groq.makeRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:318:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:22:30)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13) {
+  status: 400,
+  headers: {
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '95a937804efc5510-DEL',
+    connection: 'keep-alive',
+    'content-length': '284',
+    'content-type': 'application/json',
+    date: 'Sat, 05 Jul 2025 19:19:56 GMT',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=pM_voLXulmXHwk470LWHlP.0VMUuZId_f3ewpioeTrM-1751743196-1.0.1.1-05Pi4NMo9DuNlZOPvNJrIdpi.4uTHyRjeP2uuKraBsGNSqoNFm.sZFGnWbOTBCW6hV4yzprfh4EjxfFLFe.KCn.OncB0DqYPLHDwV34DjTI; path=/; expires=Sat, 05-Jul-25 19:49:56 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None',
+    vary: 'Origin',
+    via: '1.1 google',
+    'x-groq-region': 'bom',
+    'x-request-id': 'req_01jze0fv20f6avgeyneps3mktr'
+  },
+  error: {
+    error: {
+      message: 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.',
+      type: 'invalid_request_error',
+      code: 'model_decommissioned'
+    }
+  }
+}
+Fallback model llama-3.1-70b-versatile failed: Error: Groq API Error: 400 {"error":{"message":"The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+Groq API Error: BadRequestError: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at APIError.generate (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/error.js:40:20)
+    at Groq.makeStatusError (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:275:33)
+    at Groq.makeRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:318:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:22:30)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13) {
+  status: 400,
+  headers: {
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '95a93780cf635510-DEL',
+    connection: 'keep-alive',
+    'content-length': '279',
+    'content-type': 'application/json',
+    date: 'Sat, 05 Jul 2025 19:19:56 GMT',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=wxR7CYMxY5vUzpQijtf.PKjPcIAI7_LGezztubUrXEA-1751743196-1.0.1.1-zW16tlqVrP2vItfcbGFl98yy9LqP8OFIkiOK8NV03USZVvub18j_BlWcdyZRSg4mm_.R5PKYgTw_cyBPMmsXqeX_e9r_oFdihZTFZNCEp9k; path=/; expires=Sat, 05-Jul-25 19:49:56 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None',
+    vary: 'Origin',
+    via: '1.1 google',
+    'x-groq-region': 'bom',
+    'x-request-id': 'req_01jze0fv4je7pbsrkmgmm8fegt'
+  },
+  error: {
+    error: {
+      message: 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.',
+      type: 'invalid_request_error',
+      code: 'model_decommissioned'
+    }
+  }
+}
+Fallback model mixtral-8x7b-32768 failed: Error: Groq API Error: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+AI Search Processing Error: {
+  error: Error: All models failed after 3 attempts. Last error: Groq API Error: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+      at FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:47:15)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+      at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+      at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+      at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+      at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+      at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+      at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+      at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+      at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+      at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+      at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+      at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+      at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+      at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+      at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+      at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+      at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+      at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+      at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+      at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+      at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13),
+  metrics: {
+    actualLatency: 238,
+    expectedLatency: 800,
+    usedModel: 'gemma-2-9b-it',
+    fallbackUsed: true,
+    cost: 0,
+    success: false,
+    cacheHit: false,
+    error: 'All models failed after 3 attempts. Last error: Groq API Error: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}'
+  }
+}
+Chat API error: Error: AI Search Error: Unknown error
+    at AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:87:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+ POST /api/chat 500 in 1618ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 254ms
+ ✓ Compiled /favicon.ico in 399ms (1319 modules)
+ GET /favicon.ico 200 in 479ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/b263c57e-a8f4-40cf-9734-74c61cec4f27. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=b263c57e-a8f4-40cf-9734-74c61cec4f27 200 in 594ms
+Groq API Error: NotFoundError: 404 {"error":{"message":"The model `gemma-2-9b-it` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+    at APIError.generate (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/error.js:49:20)
+    at Groq.makeStatusError (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:275:33)
+    at Groq.makeRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:318:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:22:30)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:18:28)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13) {
+  status: 404,
+  headers: {
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '95a937ef788b7819-DEL',
+    connection: 'keep-alive',
+    'content-encoding': 'gzip',
+    'content-type': 'application/json',
+    date: 'Sat, 05 Jul 2025 19:20:14 GMT',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=pzUgpvPMvngmwBsLc8JRXxElDmKgvE9h4nPhocNb_NM-1751743214-1.0.1.1-7ngqYVpjuMqh5xeW.D_gHCekHYWdTN.RzM0VN.A_QFrOCyR4P9pW888xqH9T_w8HNvDNKvF4E5YGWgjjsposzJYB5BfbCygAZgUxLzHyEpQ; path=/; expires=Sat, 05-Jul-25 19:50:14 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None',
+    'transfer-encoding': 'chunked',
+    vary: 'Origin',
+    via: '1.1 google',
+    'x-groq-region': 'bom',
+    'x-request-id': 'req_01jze0gcdte7svvk0y5axw7r7b'
+  },
+  error: {
+    error: {
+      message: 'The model `gemma-2-9b-it` does not exist or you do not have access to it.',
+      type: 'invalid_request_error',
+      code: 'model_not_found'
+    }
+  }
+}
+Primary model gemma-2-9b-it failed: Error: Groq API Error: 404 {"error":{"message":"The model `gemma-2-9b-it` does not exist or you do not have access to it.","type":"invalid_request_error","code":"model_not_found"}}
+    at GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:18:28)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+Groq API Error: BadRequestError: 400 {"error":{"message":"The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at APIError.generate (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/error.js:40:20)
+    at Groq.makeStatusError (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:275:33)
+    at Groq.makeRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:318:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:22:30)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13) {
+  status: 400,
+  headers: {
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '95a937efb8e27819-DEL',
+    connection: 'keep-alive',
+    'content-length': '284',
+    'content-type': 'application/json',
+    date: 'Sat, 05 Jul 2025 19:20:14 GMT',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=eewwNzPOEKEapx6fI7WruYz7GyHj6RFP6KNMCNDmHt0-1751743214-1.0.1.1-tTLDPPKJu9b3QCK0iDgEZfI2.6Mzf.e0Uy3qAeIKD6ertLCCQJDiyRtXMPhXTSYhCvEmN24jqtdylKbyaf_ErKV_2OR273OlZxxd_aTpng4; path=/; expires=Sat, 05-Jul-25 19:50:14 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None',
+    vary: 'Origin',
+    via: '1.1 google',
+    'x-groq-region': 'bom',
+    'x-request-id': 'req_01jze0gcf4e7srj591vary59ah'
+  },
+  error: {
+    error: {
+      message: 'The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.',
+      type: 'invalid_request_error',
+      code: 'model_decommissioned'
+    }
+  }
+}
+Fallback model llama-3.1-70b-versatile failed: Error: Groq API Error: 400 {"error":{"message":"The model `llama-3.1-70b-versatile` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+Groq API Error: BadRequestError: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at APIError.generate (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/error.js:40:20)
+    at Groq.makeStatusError (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:275:33)
+    at Groq.makeRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/groq-sdk/core.js:318:30)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:22:30)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13) {
+  status: 400,
+  headers: {
+    'alt-svc': 'h3=":443"; ma=86400',
+    'cache-control': 'private, max-age=0, no-store, no-cache, must-revalidate',
+    'cf-cache-status': 'DYNAMIC',
+    'cf-ray': '95a937f0093a7819-DEL',
+    connection: 'keep-alive',
+    'content-length': '279',
+    'content-type': 'application/json',
+    date: 'Sat, 05 Jul 2025 19:20:14 GMT',
+    server: 'cloudflare',
+    'set-cookie': '__cf_bm=2BP8W35wGs3JZyVV3nWOj7awZrIWnVcDSofRyKsI8ms-1751743214-1.0.1.1-PyZpJakUsJ8pZsU5QfqMA5H3ZZy3RgSG5OJXaaO2AiyVTka.4wQgOpakw0YkC97t41n5J3gOC4gD0rtsimJ5O6lI_44PcgyVh50ixj7TuaE; path=/; expires=Sat, 05-Jul-25 19:50:14 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None',
+    vary: 'Origin',
+    via: '1.1 google',
+    'x-groq-region': 'bom',
+    'x-request-id': 'req_01jze0gcgrf6cs8f14d5mmkapn'
+  },
+  error: {
+    error: {
+      message: 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.',
+      type: 'invalid_request_error',
+      code: 'model_decommissioned'
+    }
+  }
+}
+Fallback model mixtral-8x7b-32768 failed: Error: Groq API Error: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+    at GroqClient.createChatCompletion (webpack-internal:///(rsc)/./app/lib/api/groq-client.ts:34:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async eval (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:51:28)
+    at async FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:33:32)
+    at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+    at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+AI Search Processing Error: {
+  error: Error: All models failed after 3 attempts. Last error: Groq API Error: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}
+      at FallbackManager.executeWithFallback (webpack-internal:///(rsc)/./app/lib/routing/fallback.ts:47:15)
+      at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+      at async RoutingOptimizer.executeWithMonitoring (webpack-internal:///(rsc)/./app/lib/routing/optimizer.ts:111:57)
+      at async AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:44:41)
+      at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+      at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+      at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+      at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+      at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+      at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+      at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+      at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+      at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+      at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+      at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+      at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+      at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+      at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+      at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+      at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+      at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+      at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+      at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13),
+  metrics: {
+    actualLatency: 174,
+    expectedLatency: 800,
+    usedModel: 'gemma-2-9b-it',
+    fallbackUsed: true,
+    cost: 0,
+    success: false,
+    cacheHit: false,
+    error: 'All models failed after 3 attempts. Last error: Groq API Error: 400 {"error":{"message":"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.","type":"invalid_request_error","code":"model_decommissioned"}}'
+  }
+}
+Chat API error: Error: AI Search Error: Unknown error
+    at AISearchWrapper.processQuery (webpack-internal:///(rsc)/./app/lib/api/api-wrapper.ts:87:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async POST (webpack-internal:///(rsc)/./app/api/chat/route.ts:107:28)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:55038
+    at async ek.execute (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:45808)
+    at async ek.handle (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/next-server/app-route.runtime.dev.js:6:56292)
+    at async doRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1377:42)
+    at async cacheEntry.responseCache.get.routeKind (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1599:28)
+    at async DevServer.renderToResponseWithComponentsImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1507:28)
+    at async DevServer.renderPageComponent (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1931:24)
+    at async DevServer.renderToResponseImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:1969:32)
+    at async DevServer.pipeImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:920:25)
+    at async NextNodeServer.handleCatchallRenderRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/next-server.js:272:17)
+    at async DevServer.handleRequestImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/base-server.js:816:17)
+    at async /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:339:20
+    at async Span.traceAsyncFn (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/trace/trace.js:154:20)
+    at async DevServer.handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/next-dev-server.js:336:24)
+    at async invokeRender (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:174:21)
+    at async handleRequest (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:353:24)
+    at async requestHandlerImpl (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/router-server.js:377:13)
+    at async Server.requestListener (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/lib/start-server.js:141:13)
+ POST /api/chat 500 in 908ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/b263c57e-a8f4-40cf-9734-74c61cec4f27. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 255ms
+ POST /api/chat 200 in 1134ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ✓ Compiled /api/auth/callback in 231ms (1321 modules)
+ GET /api/auth/callback?code=b015b455-b3ae-429b-a1b7-894413694eb5 307 in 854ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 173ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 769ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 478ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 511ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 483ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 328ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1424ms (1292 modules)
+ POST /api/chat 200 in 2630ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 200ms (1294 modules)
+ GET /api/auth/callback?code=4aa64119-7efc-4153-b265-1df6e4d3264f 307 in 709ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 246ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 900ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 463ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 1012ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 1236ms
+ ✓ Compiled /favicon.ico in 315ms (1107 modules)
+ GET /favicon.ico 200 in 387ms
+ ✓ Compiled /_not-found in 324ms (2211 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 472ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1432ms (2437 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 2464ms
+ ✓ Compiled in 502ms (2437 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 752ms (2437 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 1100ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 313ms (1322 modules)
+ GET /api/auth/callback?code=1b5e3ec0-f740-4ad9-b73f-b2bd6c7e424d 307 in 907ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 283ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 53ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 72ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 50ms
+ GET /favicon.ico 200 in 35ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/chat 200 in 1166ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/auth/callback?code=c1f8a644-034a-44e0-8652-21ec83cf05f3 307 in 247ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 66ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 51ms
+ ✓ Compiled in 824ms (2396 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/server-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/server-development/0.pack.gz'
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/chat in 353ms (1292 modules)
+ POST /api/chat 200 in 1531ms
+ POST /api/chat 200 in 896ms
+ POST /api/chat 200 in 887ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 627ms (2396 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 800ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 199ms (1295 modules)
+ GET /api/auth/callback?code=00bfd5a9-2c42-4f69-9325-f882e41fffd2 307 in 823ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 260ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 63ms
+ ✓ Compiled in 872ms (2195 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/7c52feb05850d222.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /_next/static/webpack/7c52feb05850d222.webpack.hot-update.json 404 in 304ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 184ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 41ms
+ ✓ Compiled /favicon.ico in 373ms (1108 modules)
+ GET /favicon.ico 200 in 449ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 178ms
+ GET /favicon.ico 200 in 29ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 563ms (1319 modules)
+ POST /api/chat 200 in 1492ms
+ POST /api/chat 200 in 907ms
+ POST /api/chat 200 in 837ms
+ POST /api/chat 200 in 815ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 601ms (2396 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/3ec9248198f9fdb4.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 814ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/3ec9248198f9fdb4.webpack.hot-update.json 404 in 405ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 208ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 83ms
+ ✓ Compiled /favicon.ico in 234ms (1320 modules)
+ GET /favicon.ico 200 in 314ms
+ POST /api/chat 200 in 1364ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 209ms
+ POST /api/chat 200 in 966ms
+ POST /api/chat 200 in 1293ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 71ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 385ms (1278 modules)
+ GET /api/auth/callback?code=d45b6a44-22ab-40c4-96cd-5a97a21825b2 307 in 1075ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 264ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 568ms (2382 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/3ec9248198f9fdb4.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 793ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/3ec9248198f9fdb4.webpack.hot-update.json 404 in 303ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 292ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 71ms
+ ✓ Compiled /favicon.ico in 254ms (1306 modules)
+ GET /favicon.ico 200 in 340ms
+ ✓ Compiled in 789ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /_not-found in 416ms (2181 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/3ec9248198f9fdb4.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/3ec9248198f9fdb4.webpack.hot-update.json 404 in 579ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 171ms
+ ✓ Compiled /_error in 365ms (2183 modules)
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 424ms
+ ✓ Compiled /favicon.ico in 191ms (1109 modules)
+ GET /favicon.ico 200 in 270ms
+ ✓ Compiled in 419ms (2227 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/9e3c934c2fa95cfc.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /_next/static/webpack/9e3c934c2fa95cfc.webpack.hot-update.json 404 in 104ms
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 87ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /.well-known/appspecific/com.chrome.devtools.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /.well-known/appspecific/com.chrome.devtools.json 404 in 37ms
+ GET /favicon.ico 200 in 30ms
+ ✓ Compiled in 495ms (2227 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 452ms (2227 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 270ms
+ GET /favicon.ico 200 in 44ms
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 1718ms (1319 modules)
+ POST /api/chat 200 in 2902ms
+ POST /api/chat 200 in 898ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 218ms (1321 modules)
+ GET /api/auth/callback?code=1edc41ae-9419-465d-bcc1-d3bd047c0a1d 307 in 696ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 251ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/auth/callback?code=e6f1a481-79a2-483a-97d3-0b531a2c9e1d 307 in 234ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 54ms
+ ✓ Compiled in 694ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 427ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 577ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/migrate-guest-chat in 369ms (1283 modules)
+ POST /api/migrate-guest-chat 200 in 1371ms
+ POST /api/migrate-guest-chat 200 in 2211ms
+ ✓ Compiled in 434ms (2398 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 447ms (2398 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 284ms
+ ✓ Compiled /favicon.ico in 352ms (1310 modules)
+ GET /favicon.ico 200 in 450ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 271ms
+ GET /favicon.ico 200 in 26ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/chat in 275ms (1321 modules)
+ POST /api/chat 200 in 1233ms
+ POST /api/chat 200 in 1002ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 326ms (1321 modules)
+ GET /api/auth/callback?code=baa7bc32-c317-4ccf-a379-51b774bf114e 307 in 967ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 161ms
+ ✓ Compiled /api/migrate-guest-chat in 285ms (1323 modules)
+ POST /api/migrate-guest-chat 200 in 1147ms
+ POST /api/migrate-guest-chat 200 in 1248ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/f50bb056-c8b8-42a8-a643-3a432c9cba27. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=f50bb056-c8b8-42a8-a643-3a432c9cba27 200 in 284ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=7589c8d2-e3ff-4df6-b32a-a20296341871 200 in 637ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 599ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 630ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 454ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 449ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 417ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ○ Compiling /api/chat ...
+ ✓ Compiled /api/chat in 938ms (1292 modules)
+ POST /api/chat 200 in 2556ms
+ POST /api/chat 200 in 496ms
+ POST /api/chat 200 in 1541ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ POST /api/chat 200 in 774ms
+ POST /api/chat 200 in 1805ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /login. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled /api/auth/callback in 359ms (1294 modules)
+ GET /api/auth/callback?code=01d2766b-bcc4-469f-9fe6-1a55cb7983a3 307 in 994ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET / 200 in 266ms
+ ✓ Compiled /api/migrate-guest-chat in 353ms (1296 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ POST /api/migrate-guest-chat 200 in 1991ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/b8eb326c-cac2-45b0-8642-8d3fdc62d51b. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/309dd77c-58ff-4d3d-af74-b2eb763f1ea5. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=b8eb326c-cac2-45b0-8642-8d3fdc62d51b 200 in 423ms
+ GET /api/chat?chatId=309dd77c-58ff-4d3d-af74-b2eb763f1ea5 200 in 158ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/7589c8d2-e3ff-4df6-b32a-a20296341871. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=7589c8d2-e3ff-4df6-b32a-a20296341871 200 in 147ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/f50bb056-c8b8-42a8-a643-3a432c9cba27. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=f50bb056-c8b8-42a8-a643-3a432c9cba27 200 in 147ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=666d1e76-b716-4011-8721-12c091f373fb 200 in 367ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=666d1e76-b716-4011-8721-12c091f373fb 200 in 677ms
+ ✓ Compiled in 650ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 281ms (1115 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 231ms (1115 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 632ms (2192 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 230ms (1115 modules)
+ ✓ Compiled /_not-found in 301ms (2181 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 200 in 333ms
+ ✓ Compiled /api/chat in 269ms (1293 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=666d1e76-b716-4011-8721-12c091f373fb 200 in 837ms
+ ✓ Compiled in 476ms (2410 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 690ms (2398 modules)
+ GET /api/chat?chatId=666d1e76-b716-4011-8721-12c091f373fb 404 in 1033ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 41ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 37ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 27ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 29ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 27ms
+ ✓ Compiled /favicon.ico in 496ms (1321 modules)
+ GET /favicon.ico 200 in 585ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯ Failed to generate static paths for /chat/[id]:
+Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ]
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 200 in 286ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 259ms
+ GET /favicon.ico 200 in 28ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 304ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 269ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 259ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 286ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 268ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 330ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 248ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 255ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 259ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 376ms
+ ⨯ Error: Cannot find module './vendor-chunks/@swc.js'
+Require stack:
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js
+- /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1134:15)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:55:36
+    at Module._load (node:internal/modules/cjs/loader:975:27)
+    at Module.require (node:internal/modules/cjs/loader:1225:19)
+    at mod.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require-hook.js:65:28)
+    at require (node:internal/modules/helpers:177:18)
+    at __webpack_require__.f.require (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:208:28)
+    at /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:116:40
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js:115:67) {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/webpack-runtime.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/(chat)/chat/[id]/page.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/dev/static-paths-worker.js',
+    '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/compiled/jest-worker/processChild.js'
+  ],
+  page: '/chat/666d1e76-b716-4011-8721-12c091f373fb'
+}
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 500 in 311ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 28ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 27ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 44ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 28ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 30ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 25ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 24ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 24ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 24ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 25ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 30ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 28ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 24ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 27ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 35ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 28ms
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 404 in 24ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 200 in 484ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 200 in 84ms
+ GET /favicon.ico 200 in 40ms
+ GET /api/chat?chatId=666d1e76-b716-4011-8721-12c091f373fb 200 in 492ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+ ✓ Compiled /_not-found in 2.6s (2181 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /_next/static/webpack/cc80788023db246e.webpack.hot-update.json. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ GET /_next/static/webpack/cc80788023db246e.webpack.hot-update.json 404 in 713ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /chat/666d1e76-b716-4011-8721-12c091f373fb 200 in 219ms
+ ✓ Compiled /favicon.ico in 197ms (1108 modules)
+ ✓ Compiled /api/chat in 343ms (1320 modules)
+ ✓ Compiled in 0ms (1320 modules)
+ GET /favicon.ico 200 in 855ms
+ ✓ Compiled in 0ms (1320 modules)
+ ✓ Compiled in 0ms (1320 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ GET /api/chat?chatId=666d1e76-b716-4011-8721-12c091f373fb 200 in 1770ms
+ ✓ Compiled in 573ms (2437 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 707ms (2437 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ✓ Compiled in 654ms (2437 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+   Reload env: .env.local
+ ✓ Compiled in 3s (2178 modules)
+ ⚠ Unsupported metadata viewport is configured in metadata export in /chat/666d1e76-b716-4011-8721-12c091f373fb. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat'
+ ✓ Compiled in 2.6s (1115 modules)
+ ✓ Compiled in 330ms (1115 modules)
+ ✓ Compiled in 329ms (1115 modules)
+ ✓ Compiled in 460ms (1115 modules)
+ ✓ Compiled in 336ms (1115 modules)
+ ✓ Compiled in 412ms (1115 modules)
+ ✓ Compiled in 270ms (1115 modules)
+ ✓ Compiled in 243ms (1115 modules)
+ ✓ Compiled in 257ms (1115 modules)
+ ✓ Compiled in 258ms (1115 modules)
+ ✓ Compiled in 1153ms (2192 modules)
+ ✓ Compiled in 269ms (1115 modules)
+ ✓ Compiled in 285ms (1115 modules)
+ ✓ Compiled in 264ms (1115 modules)
+ ✓ Compiled in 260ms (1115 modules)
+ ✓ Compiled in 279ms (1115 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/handle-externals.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-swc-loader.js
+ ✓ Compiled in 641ms (1115 modules)
+ ✓ Compiled in 279ms (1115 modules)
+ ✓ Compiled in 392ms (1115 modules)
+ ✓ Compiled in 304ms (1115 modules)
+ ✓ Compiled in 1276ms (2192 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+ ✓ Compiled in 1246ms (2192 modules)
+ ✓ Compiled in 889ms (2192 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+ ✓ Compiled in 486ms (1115 modules)
+ ✓ Compiled in 1333ms (2192 modules)
+ ✓ Compiled in 519ms (2192 modules)
+ ⨯ ./app/components/providers/supabase-provider.tsx
+Error: 
+  [31mx[0m Expected a semicolon
+     ,-[[36;1;4m/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/app/components/providers/supabase-provider.tsx[0m:163:1]
+ [2m163[0m |           localStorage.removeItem('guestMessages');
+ [2m164[0m |         }
+ [2m165[0m |       }
+ [2m166[0m |     });
+     : [31;1m     ^[0m
+ [2m167[0m | 
+ [2m168[0m |     return () => {
+ [2m169[0m |       subscription.unsubscribe();
+     `----
+
+  [31mx[0m Expression expected
+     ,-[[36;1;4m/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/app/components/providers/supabase-provider.tsx[0m:163:1]
+ [2m163[0m |           localStorage.removeItem('guestMessages');
+ [2m164[0m |         }
+ [2m165[0m |       }
+ [2m166[0m |     });
+     : [31;1m     ^[0m
+ [2m167[0m | 
+ [2m168[0m |     return () => {
+ [2m169[0m |       subscription.unsubscribe();
+     `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./app/components/providers/supabase-provider.tsx
+./app/components/providers/providers.tsx
+ ✓ Compiled in 544ms (2192 modules)
+ ✓ Compiled in 621ms (2192 modules)
+ ✓ Compiled in 518ms (2192 modules)
+ ✓ Compiled in 499ms (2192 modules)
+ ✓ Compiled in 500ms (2192 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+ ✓ Compiled in 1566ms (2182 modules)
+ ✓ Compiled in 586ms (2192 modules)
+ ✓ Compiled in 419ms (1115 modules)
+ ✓ Compiled in 571ms (2192 modules)
+ ✓ Compiled in 575ms (2192 modules)
+ ✓ Compiled in 725ms (2192 modules)
+ ✓ Compiled in 607ms (2194 modules)
+ ✓ Compiled in 589ms (2194 modules)
+ ✓ Compiled in 692ms (2194 modules)
+ ✓ Compiled in 526ms (2194 modules)
+ ✓ Compiled in 628ms (2194 modules)
+ ✓ Compiled in 845ms (2194 modules)
+ ✓ Compiled in 550ms (2194 modules)
+ ✓ Compiled in 549ms (2194 modules)
+ ✓ Compiled in 537ms (2194 modules)
+ ✓ Compiled in 541ms (2194 modules)
+ ✓ Compiled in 493ms (2194 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, lstat '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api'
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Resolving '../../../../.next/server/app/api/migrate-guest-chat/route' in /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server for build dependencies doesn't lead to expected result '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js', but to 'Error: Can't resolve '../../../../.next/server/app/api/migrate-guest-chat/route' in '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server'' instead. Resolving dependencies are ignored for this path.
+<w>  at resolve commonjs file ../../../../.next/server/app/api/migrate-guest-chat/route (expected /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/server/app/api/migrate-guest-chat/route.js)
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/require.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/server/load-components.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/utils.js
+<w>  at file dependencies /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at file /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w>  at resolve commonjs /home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/node_modules/next/dist/build/webpack/loaders/next-route-loader/index.js
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/3.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/3.pack.gz'
+ ✓ Compiled in 1218ms (2194 modules)
+ ✓ Compiled in 547ms (2194 modules)
+ ✓ Compiled in 867ms (2194 modules)
+ ✓ Compiled in 488ms (2194 modules)
+ ✓ Compiled in 490ms (2196 modules)
+ ✓ Compiled in 642ms (2196 modules)
+ ✓ Compiled in 472ms (2196 modules)
+ ✓ Compiled in 389ms (1117 modules)
+ ✓ Compiled in 446ms (2196 modules)
+ ✓ Compiled in 467ms (2200 modules)
+ ✓ Compiled in 506ms (2200 modules)
+ ✓ Compiled in 457ms (2200 modules)
+ ✓ Compiled in 614ms (2200 modules)
+ ✓ Compiled in 457ms (2200 modules)
+ ✓ Compiled in 632ms (2200 modules)
+ ✓ Compiled in 1312ms (2200 modules)
+ ✓ Compiled in 525ms (2200 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/1.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/1.pack.gz'
+ ✓ Compiled in 1167ms (2200 modules)
+ ✓ Compiled in 513ms (2200 modules)
+ ✓ Compiled in 966ms (2200 modules)
+ ✓ Compiled in 547ms (2200 modules)
+ ✓ Compiled in 580ms (2200 modules)
+ ✓ Compiled in 496ms (2200 modules)
+ ✓ Compiled in 469ms (2200 modules)
+ ✓ Compiled in 510ms (2200 modules)
+ ✓ Compiled in 517ms (2200 modules)
+ ✓ Compiled in 474ms (2200 modules)
+ ✓ Compiled in 449ms (2200 modules)
+ ✓ Compiled in -23ms (2200 modules)
+ ✓ Compiled in 438ms (2200 modules)
+ ✓ Compiled in 423ms (2200 modules)
+ ✓ Compiled in 506ms (2200 modules)
+ ✓ Compiled in 488ms (2200 modules)
+ ✓ Compiled in 473ms (2200 modules)
+ ✓ Compiled in 434ms (2200 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/server-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/server-development/0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+ ✓ Compiled in 688ms (2200 modules)
+ ✓ Compiled in 485ms (2200 modules)
+ ✓ Compiled in 569ms (2200 modules)
+ ✓ Compiled in 592ms (2200 modules)
+ ✓ Compiled in 445ms (2200 modules)
+ ✓ Compiled in 448ms (2200 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/server-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/server-development/0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz_' -> '/home/bruze/Projects/ai serch engine/AlpheAI/Mark1/v4/.next/cache/webpack/client-development/0.pack.gz'
+[?25h
